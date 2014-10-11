@@ -1,0 +1,11 @@
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\bin\Debug\TestForm.exe
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\bin\Debug\TestForm.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\bin\Debug\SurfaceGraphics.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\bin\Debug\SurfaceGraphics.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\obj\Debug\TestForm.exe.licenses
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\obj\Debug\TestForm.exe
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\TestForm\obj\Debug\TestForm.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\SurfaceGraphics\bin\Debug\SurfaceGraphics.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\SurfaceGraphics\bin\Debug\SurfaceGraphics.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\SurfaceGraphics\obj\Debug\SurfaceGraphics.SurfaceGraphicsChart.resources
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\SurfaceGraphics\obj\Debug\SurfaceGraphics.csproj.GenerateResource.Cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\SurfaceGraphics\obj\Debug\SurfaceGraphics.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\SurfaceGraphics\obj\Debug\SurfaceGraphics.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\SurfaceGraphics\obj\Debug\SurfaceGraphics.dll.licenses
+C:\Users\Tcat\Desktop\WorkSpace\Program\SurfaceGraphics\SurfaceGraphics\obj\Debug\SurfaceGraphics.SurfaceGraphicsControl.resources
